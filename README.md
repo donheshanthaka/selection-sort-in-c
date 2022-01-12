@@ -6,4 +6,4 @@ Functions:
 1) selectionSort(int arr[], int sizeOfArray)
 2) printArray()
 
-The function takes in arrays of integers and sort them in ascending order.
+The function takes in array of integers and sort them in ascending order.
